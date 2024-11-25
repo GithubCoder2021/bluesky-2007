@@ -1,24 +1,29 @@
 .topnav{
-    background-image: linear-gradient(#ddffff,#67eeff);
+    background-image: linear-gradient(#8EDDFF,#41B5FF);
     overflow: hidden;
     padding: 10px;
     word-spacing: 40px;
   }
-  
+.topnav a{
+  text-decoration: none;
+  font-size: 1.5em;
+}
   .search{
     position: absolute;
     right: 10px
   }
   
-  body{
+body{
     background-image: url(cloudsky.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-  }
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ 
   
-  .login{
-    background-color: #6767ff;
+.login{
+    background-color: #8EB2FF;
     overflow: hidden;
     position: absolute;
     right: 10px;
@@ -29,7 +34,7 @@
     color: #000099
   }
   
-  .homefeed{
+.homefeed{
     margin-left: 100px;
     height: 1000px;
     width: 500px;
@@ -38,15 +43,15 @@
     padding-left: 10px;
     background-color: white;
     
-  }
-  .pfp{
+}
+.pfp{
     float: left;
-  }
+}
   
-  .post{
+.post{
     margin: 10px;
-  }
+}
 
-  #postDate{
+#postDate{
     color: blue;
-  }
+}
