@@ -1,7 +1,7 @@
 .topnav{
     background-image: linear-gradient(#ddffff,#67eeff);
     overflow: hidden;
-    padding: 5px;
+    padding: 10px;
     word-spacing: 40px;
   }
   
@@ -22,7 +22,7 @@
     overflow: hidden;
     position: absolute;
     right: 10px;
-    top: 25%;
+    top: 12.5%;
     padding-top: 15px;
     padding-bottom: 15px;
     font-size: 1em;
@@ -30,7 +30,7 @@
   }
   
   .homefeed{
-    margin: 10px;
+    margin-left: 100px;
     height: 1000px;
     width: 500px;
     left: 25px;
