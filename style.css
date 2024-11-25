@@ -1,0 +1,47 @@
+.topnav{
+    background-image: linear-gradient(#ddffff,#67eeff);
+    overflow: hidden;
+    padding: 5px;
+    word-spacing: 40px;
+  }
+  
+  .search{
+    position: absolute;
+    right: 10px
+  }
+  
+  body{
+    background-color: #44d3ff
+  }
+  
+  .login{
+    background-color: #6767ff;
+    overflow: hidden;
+    position: absolute;
+    right: 10px;
+    top: 25%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 1em;
+    color: #000099
+  }
+  
+  .homefeed{
+    height: 200px;
+    width: 300px;
+    left: 25px;
+  
+    padding-left: 10px;
+    background-color: white;
+    
+  }
+  .pfp{
+    border: solid 1px;
+    margin:
+  
+    background-color: #bbbbbb;
+  
+  }
+  
+  .post{
+  }
